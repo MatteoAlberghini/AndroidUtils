@@ -1,8 +1,5 @@
 # Android Utils - Kotlin
 
-## Generals
-- [All extentions]()
-
 ### Text View
 
 - [Show/Don't show password on TextView click](https://github.com/MatteoAlberghini/Android_utils/blob/master/TextView%20switch%20from%20password%20to%20plain%20text.kt)
